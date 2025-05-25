@@ -81,7 +81,7 @@ text_for_wc = ' '.join([word for word, count in word_counts.items() for _ in ran
 # 9. Load custom mask image
 custom_mask = np.array(Image.open("data/mask.png"))
 
-# 10. Create WordCloud
+# 10. Generate and save WordCloud
 wc = WordCloud(
     width=800,
     height=400,
@@ -90,6 +90,7 @@ wc = WordCloud(
     contour_color='black',
     contour_width=1.5
 ).generate_from_frequencies(word_counts)
+wc.to_file("wordcloud.png")
 
 plt.figure(figsize=(10, 5))
 plt.imshow(wc, interpolation='bilinear')
