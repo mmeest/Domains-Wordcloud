@@ -35501,6 +35501,7 @@ rutilant
 rynchops
 rypticus
 ryukyuan
+saaremaa
 sabbatia
 sabotage
 saboteur
@@ -41872,6 +41873,7 @@ highest
 highfed
 highlow
 highway
+hiiumaa
 hillock
 hilltop
 himself
@@ -44005,6 +44007,7 @@ pigment
 pigskin
 pigtail
 pigweed
+pihlaka
 pikeman
 pileous
 pilgrim
@@ -50246,6 +50249,7 @@ haeret
 haesit
 haggis
 haggle
+haigla
 hairdo
 haired
 hairif
@@ -51135,6 +51139,7 @@ longan
 longas
 longer
 loodan
+loodus
 loofah
 looped
 loosen
@@ -58312,6 +58317,7 @@ padua
 paean
 paena
 pagan
+pagar
 pagri
 pains
 paint
@@ -58764,6 +58770,7 @@ rents
 repay
 repel
 reply
+resto
 rerum
 rerun
 reset
@@ -59602,6 +59609,7 @@ tardy
 tares
 tarot
 tarry
+tartu
 taste
 tasty
 tatar
@@ -61794,6 +61802,7 @@ kool
 koos
 kota
 koto
+kott
 kris
 kudu
 kuid
@@ -62436,6 +62445,7 @@ past
 pate
 path
 paul
+paun
 pave
 pavo
 pawl
@@ -63912,6 +63922,7 @@ gee
 gel
 gem
 gen
+geo
 get
 gib
 gig

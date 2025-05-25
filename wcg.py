@@ -12,7 +12,7 @@ estonian_stopwords = {
     'olen', 'oleme', 'oled', 'nad', 'siis', 'või', 'kõik', 'ka', 'sest', 'mida',
     'kes', 'kus', 'millal', 'sina', 'tema', 'neid', 'sind', 'mind', 'teie', 'ees',
     'loo', 'est', 'aha', 'mar', 'pia', 'ori', 'illa', 'ell', 'ana', 'anna', 'utu',
-    'amine', 'mam', 'alar', 'kai', 'oka', 'mine', 'ala'
+    'amine', 'mam', 'alar', 'kai', 'oka', 'mine', 'ala', 'ara', 'ise'
 }
 
 # 1. Hardcoded English stopwords list
@@ -27,7 +27,7 @@ english_stopwords = {
     'dita', 'per', 'kal', 'val', 'ein', 'ani', 'ame', 'ave', 'nut', 'tar', 'ate',
     'ade', 'par', 'uti', 'did', 'dis', 'che', 'bib', 'lek', 'ter', 'dee', 'des',
     'ken', 'rit', 'lev', 'rote', 'ote', 'gre', 'lin', 'gre', 'tor', 'nam', 'oka',
-    'jut', 'lee'
+    'jut', 'lee', 'jar', 'ing', 'ion', 'ore', 'let', 'pep', 'sed'
 }
 
 # 2. Combine Estonian and English stopwords
