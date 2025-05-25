@@ -42768,7 +42768,9 @@ lyrurus
 lythrum
 lähedal
 maailma
+maakler
 maalima
+maastik
 macadam
 macaire
 macaque
@@ -51208,7 +51210,10 @@ lõikes
 lõplik
 lõpuks
 lühike
+maailm
+maaler
 maalox
+maania
 macaca
 mackle
 macoun
@@ -62021,6 +62026,7 @@ lõhe
 lõhn
 lõik
 löök
+maal
 mace
 made
 mage

@@ -12,7 +12,7 @@ estonian_stopwords = {
     'olen', 'oleme', 'oled', 'nad', 'siis', 'või', 'kõik', 'ka', 'sest', 'mida',
     'kes', 'kus', 'millal', 'sina', 'tema', 'neid', 'sind', 'mind', 'teie', 'ees',
     'loo', 'est', 'aha', 'mar', 'pia', 'ori', 'illa', 'ell', 'ana', 'anna', 'utu',
-    'amine', 'mam', 'alar', 'kai', 'oka'
+    'amine', 'mam', 'alar', 'kai', 'oka', 'mine', 'ala'
 }
 
 # 1. Hardcoded English stopwords list
