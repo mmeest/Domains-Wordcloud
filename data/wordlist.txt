@@ -9439,6 +9439,7 @@ syntectical
 synthesizer
 systematics
 systematize
+sünnipäevad
 ttonnement
 tabefaction
 tachycardia
@@ -12804,6 +12805,7 @@ eimeriidae
 eisenhower
 eisteddfod
 ejaculator
+ekspertiis
 elasticity
 elateridae
 elderberry
@@ -23140,6 +23142,7 @@ judicable
 judically
 judiciary
 judicious
+juhtimine
 juiceless
 jumentous
 jumped-up
@@ -23161,13 +23164,16 @@ kala-azar
 kalapooia
 kalumpang
 kamarupan
+kandidaat
 kaolinite
 karakoram
 kartikeya
 karyaster
 karyotype
+kasutatud
 katabatic
 katharobe
+kaubamaja
 kaubandus
 kaunistus
 kazakstan
@@ -25255,6 +25261,7 @@ puerperal
 puffiness
 pug-nosed
 pugnacity
+puhkemaja
 puissance
 pulicaria
 pulicidae
@@ -26712,6 +26719,7 @@ syntactic
 syntectic
 synthesis
 synthetic
+sünnipäev
 tabanidae
 tabbouleh
 tablature
@@ -28660,6 +28668,7 @@ autocrat
 autodafe
 autogamy
 autogiro
+autokool
 autonomy
 autosome
 autotomy
@@ -33240,6 +33249,7 @@ mainstay
 maintain
 maintien
 maitreya
+majandus
 majestic
 majolica
 majorana
@@ -40660,6 +40670,7 @@ egretta
 ehitada
 eidetic
 eileton
+ekspert
 elamite
 elapsed
 elastic
@@ -41878,6 +41889,7 @@ hillock
 hilltop
 himself
 hindgut
+hinnang
 hipbone
 hipless
 hipline
@@ -42310,6 +42322,7 @@ justify
 jutland
 jutting
 juuksed
+juuksur
 juvabit
 juvenal
 järgima
@@ -42332,6 +42345,7 @@ kantian
 karachi
 karelia
 kashmir
+kasiino
 kassite
 kasvama
 katydid
@@ -42771,8 +42785,12 @@ lythrum
 lähedal
 maailma
 maakler
+maakond
 maalima
+maandus
 maastik
+maastur
+maavara
 macadam
 macaire
 macaque
@@ -42817,6 +42835,7 @@ majeure
 majidae
 majorca
 majorum
+majutus
 makaira
 malacca
 malacia
@@ -44857,6 +44876,7 @@ rooftop
 rooibos
 rookery
 roomage
+roomaja
 roomful
 roomily
 rooster
@@ -45238,6 +45258,7 @@ shaking
 shallop
 shallot
 shallow
+shamaan
 shamash
 shamble
 shampoo
@@ -46669,6 +46690,7 @@ variant
 variety
 variola
 various
+varjend
 varmint
 varnish
 varsity
@@ -46777,6 +46799,7 @@ virilis
 virtual
 virtues
 virtute
+virumaa
 visaged
 visavis
 visayan
@@ -47457,6 +47480,7 @@ anthem
 anther
 anthus
 antido
+antiik
 antler
 antony
 antrum
@@ -47576,6 +47600,7 @@ ascend
 ascent
 ascoma
 asemel
+asfalt
 ashame
 ashcan
 ashlar
@@ -49372,11 +49397,13 @@ eggnog
 egoism
 egoist
 egress
+ehitus
 eighth
 eighty
 eigner
 either
 ejecta
+ekraan
 elaeis
 elaine
 elanus
@@ -50447,6 +50474,7 @@ hostel
 hotbed
 hotbox
 hotdog
+hotell
 hounds
 hourly
 hourse
@@ -50775,6 +50803,7 @@ kaffir
 kafiri
 kahlua
 kaiser
+kaitse
 kallis
 kalmia
 kandma
@@ -50784,9 +50813,12 @@ kapten
 kapuka
 karate
 kartik
+kartul
 kassis
 kasvas
+kaubad
 kaunas
+kaunis
 kavass
 kawaka
 keddah
@@ -50821,6 +50853,7 @@ killed
 killer
 kilter
 kimono
+kindel
 kindle
 kindly
 kingly
@@ -50839,6 +50872,7 @@ kitcat
 kitsch
 kitten
 klaxon
+kliima
 knaggy
 knawel
 knight
@@ -51215,6 +51249,7 @@ lõikes
 lõplik
 lõpuks
 lühike
+maagia
 maailm
 maaler
 maalox
@@ -52111,6 +52146,7 @@ panama
 pandar
 pander
 pandoz
+paneel
 panier
 panini
 pannel
@@ -54051,6 +54087,7 @@ terret
 terroe
 terror
 tertry
+tervis
 tested
 testee
 tester
@@ -55111,6 +55148,7 @@ alkyd
 alkyl
 allah
 allay
+allee
 aller
 alley
 allot
@@ -56344,6 +56382,7 @@ droll
 drone
 drony
 drool
+droon
 droop
 dropp
 drops
@@ -56410,6 +56449,7 @@ edile
 educe
 educt
 eerie
+eesti
 eggar
 egret
 egypt
@@ -57137,6 +57177,7 @@ hinan
 hindi
 hindu
 hinge
+hinne
 hinny
 hired
 hitch
@@ -57148,6 +57189,7 @@ hogan
 hoida
 hoist
 hoity
+hoius
 hokan
 holds
 holes
@@ -57375,6 +57417,7 @@ judas
 judge
 juice
 juicy
+julge
 julep
 jumbo
 jumps
@@ -57405,6 +57448,7 @@ kalon
 kamba
 kamet
 kamia
+kamin
 kansa
 kanzu
 kapok
@@ -57416,6 +57460,7 @@ karen
 karma
 karok
 kasha
+katus
 kauai
 kauge
 kauri
@@ -57494,6 +57539,7 @@ kotow
 kraal
 kraft
 krait
+kratt
 kraut
 krill
 krubi
@@ -57553,6 +57599,7 @@ larva
 laser
 lashd
 lasso
+laste
 latch
 later
 latet
@@ -58330,6 +58377,7 @@ palms
 palmy
 palsy
 palun
+palve
 panax
 paned
 panel
@@ -58609,6 +58657,7 @@ pudor
 pueri
 puffy
 puhas
+puhke
 puhul
 pukka
 pulex
@@ -58714,6 +58763,7 @@ rasva
 ratan
 ratel
 ratio
+ratta
 ravel
 raven
 raver
@@ -59039,6 +59089,7 @@ selar
 selge
 selma
 selon
+selts
 semel
 semen
 senes
@@ -61270,6 +61321,7 @@ form
 foro
 fort
 foss
+foto
 foul
 four
 fous
@@ -61533,6 +61585,7 @@ hill
 hilt
 hinc
 hind
+hing
 hint
 hire
 hirm
@@ -61559,6 +61612,7 @@ hoof
 hook
 hoop
 hoot
+hoov
 hope
 hopi
 hops
@@ -62514,6 +62568,7 @@ pipa
 pipe
 pisa
 pish
+pisi
 piss
 pita
 pith
@@ -62673,6 +62728,7 @@ rati
 rats
 raud
 rave
+ravi
 rays
 raze
 razz
@@ -62732,6 +62788,7 @@ roar
 roba
 robe
 rock
+rohe
 roil
 rois
 role
@@ -62917,6 +62974,7 @@ sikh
 sild
 silk
 sill
+silm
 silo
 silp
 silt
@@ -63139,6 +63197,7 @@ teal
 team
 tear
 teat
+tech
 teeb
 teem
 teen
@@ -63754,7 +63813,6 @@ cit
 cob
 cod
 cog
-col
 con
 coo
 cop
@@ -64301,6 +64359,7 @@ pou
 pow
 pox
 pre
+pri
 pro
 pry
 psi
